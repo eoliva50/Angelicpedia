@@ -3,7 +3,7 @@ WORKDIR /src/app
 
 COPY package*.json ./
 
-RUN nom install
+RUN npm install
 
 COPY . .
 
