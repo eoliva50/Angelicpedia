@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import { Router } from 'express'
 import basicAuth from 'express-basic-auth'
 
